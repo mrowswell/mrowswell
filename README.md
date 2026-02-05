@@ -6,7 +6,7 @@
   - [Join a Computer to a Domain](https://github.com/mrowswell/joinacomputertoadomain)
   - [Create a new user Active Directory](https://github.com/mrowswell/createanewuser)
   - [Reset User Password](https://github.com/mrowswell/resetuserpassword)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Group Policy](https://github.com/mrowswell/grouppolicy)
 
 
 <h2>📺 Popular YouTube Videos</h2>
