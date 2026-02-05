@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Active Directory</b>
   - [Join a Computer to a Domain](https://github.com/mrowswell/joinacomputertoadomain)
   - [Create a new user Active Directory](https://github.com/mrowswell/createanewuser)
   - [Reset User Password](https://github.com/mrowswell/resetuserpassword)
