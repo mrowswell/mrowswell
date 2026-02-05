@@ -5,7 +5,7 @@
 - <b>PowerShell</b>
   - [Join a Computer to a Domain](https://github.com/mrowswell/joinacomputertoadomain)
   - [Create a new user Active Directory](https://github.com/mrowswell/createanewuser)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Reset User Password](https://github.com/mrowswell/resetuserpassword)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 
