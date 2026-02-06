@@ -7,6 +7,7 @@
   - [Create a new user Active Directory](https://github.com/mrowswell/createanewuser)
   - [Reset User Password](https://github.com/mrowswell/resetuserpassword)
   - [Group Policy](https://github.com/mrowswell/grouppolicy)
+  - [Share a Folder](https://github.com/mrowswell/sharefolder)
 
 
 <h2>📺 Popular YouTube Videos</h2>
